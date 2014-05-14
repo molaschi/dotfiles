@@ -88,3 +88,6 @@
 
 [push]
 	default = matching
+[user]
+	name = Manuel Molaschi
+	email = manuel.molaschi@gmail.com
